@@ -1,5 +1,5 @@
 +++
-author = "Araya-Mk.5"
+author = "IceBlueHalls"
 title = "우분투에 최신버전 Cmake 다운받기"
 date = 2022-10-04T02:35:04+09:00
 description = "CMake가 3.19 버전까지만 다운받아지는 우분투 환경에서 3.24 CMake를 다운받는 법"

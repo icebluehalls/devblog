@@ -1,5 +1,5 @@
 +++
-author = "Araya-Mk.5"
+author = "IceBlueHalls"
 title = "[백문이불여일타] 데이터 분석을 위한 기초 SQL 강의 요약"
 date = "2023-04-09"
 description = "인프런 강의 [백문이불여일타] 데이터 분석을 위한 기초 SQL 강의 요약"

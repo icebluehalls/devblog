@@ -1,5 +1,5 @@
 +++
-author = "Araya-Mk.5"
+author = "IceBlueHalls"
 title = "유니티 기본 TextPro 폰트 바꾸기"
 date = "2023-01-06"
 description = "유니티 기본 TextPro 폰트인 Liberation Sans를 원하는 폰트로 바꾸어보려고 한다."

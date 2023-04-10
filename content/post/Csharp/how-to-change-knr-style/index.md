@@ -1,5 +1,5 @@
 +++
-author = "Araya-Mk.5"
+author = "IceBlueHalls"
 title = "VSCode에서 중괄호 스타일 K&R로 변경하기"
 date = "2022-09-28"
 description = "VSCode에서 C#의 중괄호 스타일을 BSD에서 K&R로 바꾸는 방법을 알아보고자 한다."

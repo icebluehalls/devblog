@@ -1,5 +1,5 @@
 +++
-author = "Araya-Mk.5"
+author = "IceBlueHalls"
 title = "HttpRequestMessage 사용 시, illegal byte sequence encounted in the input. 에러 발생"
 date = "2023-01-09"
 description = "HttpRequestMessage 사용 시, illegal byte sequence encounted in the input 에러가 왜 발생하는지에 대해 알아보려고 한다."

@@ -2,7 +2,7 @@
 title: About
 description: 게임 개발 희망인데 그거 빼고 다하는 개발자
 date: '2019-02-28'
-license: Araya-MK.5
+license: IceBlueHalls
 lastmod: '2022-10-04'
 menu:
     main: 
@@ -17,7 +17,7 @@ menu:
 
 안녕하세요.  
 
-2020년부터 본격적으로 개발을 시작한 주니어 개발자 Araya-MK.5입니다.  
+2020년부터 본격적으로 개발을 시작한 주니어 개발자 IceBlueHalls입니다.  
 
 게임을 좋아해서 유니티 게임 개발쪽을 공부하게 되었습니다.  
 

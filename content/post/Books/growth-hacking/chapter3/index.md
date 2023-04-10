@@ -1,5 +1,5 @@
 +++
-author = "Araya-Mk.5"
+author = "IceBlueHalls"
 title = "진화된 마케팅 그로스해킹(by 션 엘리스) - #Chapter3"
 date = "2022-12-15"
 description = "션 엘리스 저자의 그로스해킹 관련 책을 읽고 정리, chapter3"

@@ -1,5 +1,5 @@
 +++
-author = "Araya-Mk.5"
+author = "IceBlueHalls"
 title = "유니티 ScrollView를 이용하여 자동으로 늘어나는 퀘스트 UI 만들기"
 date = "2023-01-05"
 description = "유니티 ScrollView를 이용하여 아이템이 추가될때마다 늘어나는 퀘스트 UI를 만들어보려고 한다"

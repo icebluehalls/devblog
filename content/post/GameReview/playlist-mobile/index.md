@@ -1,5 +1,5 @@
 +++
-author = "Araya-Mk.5"
+author = "IceBlueHalls"
 title = "인디 게임 한줄평"
 date = "2023-03-17"
 lastmod = "2023-03-18"
