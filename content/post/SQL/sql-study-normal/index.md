@@ -4,13 +4,13 @@ title = "[백문이불여일타] 데이터 분석을 위한 중급 SQL 강의 �
 date = "2023-04-10"
 description = "인프런 강의 [백문이불여일타] 데이터 분석을 위한 중급 SQL 강의 요약"
 tags = [
-    "sql"
+    "SQL"
 ]
 categories = [
-    "sql"
+    "SQL"
 ]
-series = ["sql"]
-aliases = ["sql"]
+series = ["SQL"]
+aliases = ["SQL"]
 image = "main.png"
 slug = "sql-study-normal"
 +++
