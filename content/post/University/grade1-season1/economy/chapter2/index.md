@@ -1,7 +1,7 @@
 +++
 author = "IceBlueHalls"
 title = "경제학원론 강의 2강 - 경제학의 10대 기본원리"
-date = "2023-03-11"
+date = "2023-03-13"
 description = "경제학원론 강의 2강 - 경제학의 10대 기본원리"
 tags = [
     "University",

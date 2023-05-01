@@ -1,7 +1,7 @@
 +++
 author = "IceBlueHalls"
 title = "경제학원론 강의 1강 - 경제학의 개념"
-date = "2023-03-11"
+date = "2023-03-06"
 description = "경제학원론 강의 1강 - 경제학의 개념"
 tags = [
     "University",

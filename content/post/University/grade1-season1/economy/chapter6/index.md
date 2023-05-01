@@ -1,7 +1,7 @@
 +++
 author = "IceBlueHalls"
 title = "경제학원론 강의 6강 - 외부효과"
-date = "2023-03-11"
+date = "2023-04-10"
 description = "경제학원론 강의 6강 - 외부효과"
 tags = [
     "University",

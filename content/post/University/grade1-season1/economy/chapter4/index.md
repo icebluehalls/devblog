@@ -1,7 +1,7 @@
 +++
 author = "IceBlueHalls"
 title = "경제학원론 강의 4강 - 탄력성과 그 응용"
-date = "2023-03-11"
+date = "2023-03-27"
 description = "경제학원론 강의 4강 - 탄력성과 그 응용"
 tags = [
     "University",

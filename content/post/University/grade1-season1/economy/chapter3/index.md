@@ -1,7 +1,7 @@
 +++
 author = "IceBlueHalls"
 title = "경제학원론 강의 3강 - 시장의 수요와 공급"
-date = "2023-03-11"
+date = "2023-03-20"
 description = "경제학원론 강의 3강 - 시장의 수요와 공급"
 tags = [
     "University",

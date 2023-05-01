@@ -1,7 +1,7 @@
 +++
 author = "IceBlueHalls"
 title = "경제학원론 강의 7강 - 생산비용과 생산요소시장"
-date = "2023-03-11"
+date = "2023-04-17"
 description = "경제학원론 강의 7강 - 생산비용과 생산요소시장"
 tags = [
     "University",
