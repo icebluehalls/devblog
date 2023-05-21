@@ -1,7 +1,7 @@
 +++
 author = "IceBlueHalls"
 title = "따라하기 제일 쉬운 Hugo로 블로그 만들기 #3"
-date = "2023-04-13"
+date = "2023-05-20"
 description = "hugo로 블로그 만들기 3편"
 tags = [
     "Hugo"

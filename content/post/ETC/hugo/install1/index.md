@@ -1,7 +1,7 @@
 +++
 author = "IceBlueHalls"
 title = "따라하기 제일 쉬운 Hugo로 블로그 만들기 #1"
-date = "2023-04-12"
+date = "2023-05-18"
 description = "깃 리포지토리 생성, Hugo 다운로드, 환경변수 설정까지"
 tags = [
     "Hugo"
