@@ -1,7 +1,7 @@
 +++
 author = "IceBlueHalls"
 title = "심리학 강의 10강 - 평생발달과 변화2"
-date = "2023-04-15"
+date = "2023-05-06"
 description = "심리학 강의 10강 - 평생발달과 변화2"
 tags = [
     "University",
